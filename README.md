@@ -22,9 +22,9 @@ You may need to add the full path of requirements.txt file depending on your pwd
 1. Conda environment - https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 2. https://wiki.epfl.ch/help-git-en/how-can-i-import-an-existing-folder-into-my-repository
 
-#### Folders & Code Description -
-###### data - This folder contains all data files for the different workbooks & codes
-###### IRIS_Clustering_code - This folder contains 3 files : nn.py (Nearest Neighbour), kmeans_final.py , and normalizing.py
+### Folders & Code Description -
+#### data - This folder contains all data files for the different workbooks & codes
+#### IRIS_Clustering_code - This folder contains 3 files : nn.py (Nearest Neighbour), kmeans_final.py , and normalizing.py
 
 These files can be run using a python shell or any text editor (ex. ATOM).
 For example -
@@ -40,6 +40,6 @@ Steps to execute code using any other text editor like ATOM:
 4. Open the python code in the ATOM text editor
 5. Press Ctrl+Shift+P and type "Script with profiles", select your saved profile from the list and then run the file.
 
-###### Notebooks
+#### Notebooks
 This folder contains several workbooks which solves problems like recommendations, analyzing product sentiment, image classification, image retrieval, document retrieval among others.
 These workbook would use graph lab package for these purposes.
