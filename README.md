@@ -2,7 +2,7 @@
 
 **What is this repository about?**
 There are several python notebooks and codes which are part of this folder. These are some assignments which I had done as part of the 3 credit coursework at IISC. 
-As part of the coursework, clustering, recommendations, image classification, retrieval problems were solved.
+**As part of the coursework, clustering, recommendations, image classification, retrieval problems were solved.**
 
 For running the code, you may follow the below steps:
 1. Run VSCode (or any other code editor) from Anaconda Command Prompt
